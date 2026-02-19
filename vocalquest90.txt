@@ -1926,3 +1926,224 @@ Evalúa mi nivel técnico después de 30 días.
 
 [ENDDAY]
 
+############################################
+############### DAY 31 #####################
+############################################
+
+===DAY:31===
+[TITLE] Identificación del Passaggio
+[MODULE] El Puente de Oro
+[LEVEL] Voz Mixta y Transición
+
+[TTS]
+Bienvenido al Día 31.
+Hoy identificarás tu zona de passaggio.
+El passaggio no es un enemigo.
+Es una transición neuromuscular entre el dominio del músculo TA y el músculo CT.
+Cuando lo entiendes, desaparece el quiebre.
+
+[THEORY]
+El passaggio ocurre cuando:
+- El TA (registro de pecho) reduce participación.
+- El CT (registro de cabeza) aumenta tensión longitudinal.
+
+Síntomas comunes:
+- Sensación de salto o quiebre.
+- Pérdida de potencia.
+- Tensión en cuello.
+
+Biomecánica:
+El cartílago tiroides comienza a inclinarse.
+Los pliegues se alargan.
+La presión subglótica debe disminuir levemente.
+
+[EXERCISE]
+1. Realiza sirenas suaves en NG.
+2. Identifica el punto donde cambia la sensación.
+3. Repite en volumen medio sin empujar.
+4. Mantén cuello relajado.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo identifico mi passaggio según mi tipo de voz?
+
+[ENDDAY]
+
+############################################
+############### DAY 32 #####################
+############################################
+
+===DAY:32===
+[TITLE] Eliminación del Quiebre Vocal
+[MODULE] El Puente de Oro
+[LEVEL] Voz Mixta y Transición
+
+[TTS]
+Hoy entrenaremos el cerebro para que no cambie de estrategia muscular bruscamente.
+El quiebre es una descoordinación.
+No es falta de talento.
+Es falta de transición gradual.
+
+[THEORY]
+El quiebre ocurre cuando:
+- TA se desconecta abruptamente.
+- CT toma control sin soporte.
+- Aumenta la presión subglótica.
+
+Solución:
+Transición progresiva.
+Reducción de volumen.
+Uso de vocales cerradas como “Gee” o “Nay”.
+
+[EXERCISE]
+1. Escala 1-3-5-8 en “Gee”.
+2. Mantén volumen medio-bajo.
+3. No aumentes presión al subir.
+4. Repite 10 veces.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Por qué el volumen alto empeora el passaggio?
+
+[ENDDAY]
+
+############################################
+############### DAY 33 #####################
+############################################
+
+===DAY:33===
+[TITLE] Inclinación del Cartílago Tiroides
+[MODULE] El Puente de Oro
+[LEVEL] Biomecánica Avanzada
+
+[TTS]
+Hoy comprenderás el mecanismo secreto de los agudos libres.
+La inclinación tiroidea permite estirar los pliegues sin aumentar la presión.
+Este es el verdadero acceso al rango alto saludable.
+
+[THEORY]
+Thyroid Cartilage Tilt:
+- Movimiento hacia adelante del cartílago tiroides.
+- Estiramiento longitudinal de pliegues.
+- Activación dominante del CT.
+
+Beneficio:
+Agudos sin gritar.
+Menor colisión glótica.
+
+Error común:
+Empujar con abdominales.
+Elevar laringe.
+
+[EXERCISE]
+1. Bostezo interno.
+2. Sonido “Woo” ligero hacia agudo.
+3. Sensación de espacio interno.
+4. Repetir 8 series.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Qué diferencia hay entre empujar y usar inclinación tiroidea?
+
+[ENDDAY]
+
+############################################
+############### DAY 34 #####################
+############################################
+
+===DAY:34===
+[TITLE] Voz Mixta Ligera
+[MODULE] El Puente de Oro
+[LEVEL] Integración TA-CT
+
+[TTS]
+Hoy construirás tu voz mixta ligera.
+La voz mixta es equilibrio.
+Ni pecho dominante.
+Ni cabeza pura.
+Es coordinación fina.
+
+[THEORY]
+La voz mixta ocurre cuando:
+- TA mantiene cierre eficiente.
+- CT estira moderadamente.
+- La presión subglótica se mantiene estable.
+
+Sensación correcta:
+Ligera.
+Flotante.
+Sin tensión cervical.
+
+[EXERCISE]
+1. Escalas 1-5-8-5-1 en “Nay”.
+2. Volumen medio.
+3. Mantener brillo frontal.
+4. Repetir 12 veces.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo sé si estoy realmente en voz mixta?
+
+[ENDDAY]
+
+############################################
+############### DAY 35 #####################
+############################################
+
+===DAY:35===
+[TITLE] Voz Mixta Potente
+[MODULE] El Puente de Oro
+[LEVEL] Integración TA-CT
+
+[TTS]
+Hoy fortalecerás la voz mixta sin convertirla en grito.
+Potencia no es presión.
+Potencia es eficiencia biomecánica.
+
+[THEORY]
+Para aumentar potencia:
+- Incrementar ligeramente presión subglótica.
+- Mantener estabilidad laríngea.
+- Añadir leve twang para proyección.
+
+Evitar:
+Compresión mandibular.
+Rigidez cervical.
+Elevación excesiva.
+
+[EXERCISE]
+1. Escala 1-3-5-8 en “Gug”.
+2. Aumentar volumen progresivamente.
+3. Mantener sensación frontal.
+4. 10 repeticiones controladas.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo aumento potencia sin generar fatiga?
+
+[ENDDAY]
