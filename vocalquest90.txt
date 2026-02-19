@@ -2534,3 +2534,557 @@ PEGAR_LINK_AUDIO_AQUI
 ¿Cómo lograr uniformidad en todo mi rango?
 
 [ENDDAY]
+
+############################################
+############### DAY 46 #####################
+############################################
+
+===DAY:46===
+[TITLE] Introducción al Twang Controlado
+[MODULE] Resonancia y Proyección
+[LEVEL] Amplificación Acústica
+
+[TTS]
+Hoy descubrirás uno de los secretos de la proyección moderna.
+El twang no es nasalidad desagradable.
+Es eficiencia acústica.
+Es amplificación sin esfuerzo.
+
+[THEORY]
+El twang ocurre por:
+- Estrechamiento del esfínter ariepiglótico.
+- Concentración de energía en frecuencias medias-altas.
+- Mejora de proyección sin aumentar presión.
+
+Beneficio:
+Mayor volumen percibido con menor esfuerzo real.
+
+[EXERCISE]
+1. Produce sonido “Nye”.
+2. Mantén brillo metálico ligero.
+3. Escalas cortas 1-3-5.
+4. Repite 10 veces.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Qué es el esfínter ariepiglótico y cómo influye en el twang?
+
+[ENDDAY]
+
+############################################
+############### DAY 47 #####################
+############################################
+
+===DAY:47===
+[TITLE] Twang Integrado en Escalas
+[MODULE] Resonancia y Proyección
+[LEVEL] Aplicación Práctica
+
+[TTS]
+Hoy integrarás el twang dentro de movimiento melódico.
+La meta es mantener brillo constante en ascenso.
+
+[THEORY]
+Para mantener twang:
+- Laringe estable.
+- No elevar mentón.
+- No aumentar presión.
+
+Twang correcto:
+Brillante pero no forzado.
+
+[EXERCISE]
+1. Escala 1-3-5-8 en “Nay”.
+2. Mantén sensación frontal.
+3. Volumen medio.
+4. 12 repeticiones.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo diferenciar twang saludable de nasalidad excesiva?
+
+[ENDDAY]
+
+############################################
+############### DAY 48 #####################
+############################################
+
+===DAY:48===
+[TITLE] Máscara Resonante
+[MODULE] Resonancia y Proyección
+[LEVEL] Colocación Avanzada
+
+[TTS]
+Hoy colocarás el sonido en la máscara facial.
+No es empujar.
+Es direccionar vibración.
+
+[THEORY]
+Máscara implica:
+- Vibración en zona nasal superior.
+- Espacio faríngeo abierto.
+- Lengua relajada.
+
+Resultado:
+Proyección clara sin fatiga.
+
+[EXERCISE]
+1. Sonido “Mmm” vibrante.
+2. Escala corta manteniendo vibración frontal.
+3. 15 repeticiones controladas.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo sentir vibración en máscara correctamente?
+
+[ENDDAY]
+
+############################################
+############### DAY 49 #####################
+############################################
+
+===DAY:49===
+[TITLE] Proyección Sin Aumento de Presión
+[MODULE] Resonancia y Proyección
+[LEVEL] Eficiencia Acústica
+
+[TTS]
+Hoy proyectarás más sin aumentar esfuerzo.
+El secreto está en resonancia, no en fuerza.
+
+[THEORY]
+Proyección eficiente requiere:
+- Twang ligero.
+- Espacio oral abierto.
+- Presión subglótica estable.
+
+Aumentar presión excesiva genera fatiga.
+
+[EXERCISE]
+1. Canta frase corta.
+2. Repite agregando twang leve.
+3. Mantén misma presión.
+4. 10 ciclos.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Por qué más presión no siempre significa más volumen?
+
+[ENDDAY]
+
+############################################
+############### DAY 50 #####################
+############################################
+
+===DAY:50===
+[TITLE] Introducción a Formantes
+[MODULE] Resonancia y Proyección
+[LEVEL] Acústica Vocal
+
+[TTS]
+Hoy entrarás en acústica avanzada.
+Los formantes determinan color y proyección.
+No todo es frecuencia fundamental.
+
+[THEORY]
+Formantes:
+Frecuencias amplificadas por tracto vocal.
+El primer y segundo formante definen vocal.
+El formante del cantante amplifica agudos.
+
+Controlar forma de boca modifica formantes.
+
+[EXERCISE]
+1. Canta “Ah”.
+2. Cambia forma interna a “Oh”.
+3. Escucha cambio de color.
+4. Repite 12 veces.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Qué es el formante del cantante?
+
+[ENDDAY]
+
+############################################
+############### DAY 51 #####################
+############################################
+
+===DAY:51===
+[TITLE] Brillo vs Oscuridad Tímbrica
+[MODULE] Resonancia y Proyección
+[LEVEL] Color Vocal
+
+[TTS]
+Hoy controlarás el color.
+Brillante no es gritar.
+Oscuro no es opaco.
+
+[THEORY]
+Brillo:
+Más twang.
+Más energía en altas frecuencias.
+
+Oscuridad:
+Más espacio faríngeo.
+Menor compresión.
+
+[EXERCISE]
+1. Canta nota media brillante.
+2. Repite oscura.
+3. Alterna 10 veces.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo cambiar color sin perder afinación?
+
+[ENDDAY]
+
+############################################
+############### DAY 52 #####################
+############################################
+
+===DAY:52===
+[TITLE] Resonancia Nasal Funcional
+[MODULE] Resonancia y Proyección
+[LEVEL] Control de Cavidades
+
+[TTS]
+La resonancia nasal puede ser herramienta.
+No debe sonar congestionada.
+Debe amplificar inteligentemente.
+
+[THEORY]
+Resonancia nasal controlada:
+Velo del paladar parcialmente elevado.
+Paso de aire mínimo.
+Sensación frontal.
+
+[EXERCISE]
+1. Sonido “Ng”.
+2. Escalas cortas.
+3. Mantener claridad.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo usar resonancia nasal sin sonar nasal?
+
+[ENDDAY]
+
+############################################
+############### DAY 53 #####################
+############################################
+
+===DAY:53===
+[TITLE] Resonancia Oral Amplificada
+[MODULE] Resonancia y Proyección
+[LEVEL] Espacio Interno
+
+[TTS]
+Hoy ampliarás la cavidad oral.
+Espacio interno es volumen acústico.
+
+[THEORY]
+Mayor apertura interna:
+Aumenta riqueza armónica.
+Reduce esfuerzo glótico.
+
+Evitar abrir solo labios.
+El espacio debe ser interno.
+
+[EXERCISE]
+1. Bostezo interno.
+2. Vocal “Ah” amplia.
+3. Escalas lentas.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Qué diferencia hay entre abrir boca y abrir espacio interno?
+
+[ENDDAY]
+
+############################################
+############### DAY 54 #####################
+############################################
+
+===DAY:54===
+[TITLE] Combinación de Resonadores
+[MODULE] Resonancia y Proyección
+[LEVEL] Integración Acústica
+
+[TTS]
+Hoy combinarás cavidades.
+La voz profesional mezcla resonadores.
+
+[THEORY]
+Equilibrio:
+Frontal + oral + faríngeo.
+Sin tensión.
+
+[EXERCISE]
+1. Escala completa.
+2. Mantener brillo y profundidad.
+3. 8 ciclos completos.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo equilibrar resonadores en todo el rango?
+
+[ENDDAY]
+
+############################################
+############### DAY 55 #####################
+############################################
+
+===DAY:55===
+[TITLE] Proyección en Frases Largas
+[MODULE] Resonancia y Proyección
+[LEVEL] Aplicación Musical
+
+[TTS]
+Hoy aplicarás proyección en frase real.
+La técnica debe sobrevivir a la música.
+
+[THEORY]
+Frases largas requieren:
+Gestión de aire.
+Resonancia estable.
+Relajación mandibular.
+
+[EXERCISE]
+1. Elige frase de 8 compases.
+2. Cántala manteniendo twang ligero.
+3. Controla respiración.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo mantener proyección al final de frase larga?
+
+[ENDDAY]
+
+############################################
+############### DAY 56 #####################
+############################################
+
+===DAY:56===
+[TITLE] Resonancia en Agudos
+[MODULE] Resonancia y Proyección
+[LEVEL] Alta Frecuencia
+
+[TTS]
+El agudo necesita espacio.
+No presión.
+Más resonancia, menos fuerza.
+
+[THEORY]
+En agudos:
+Mayor elongación CT.
+Espacio faríngeo amplio.
+Twang ligero.
+
+[EXERCISE]
+1. Escala ascendente.
+2. Mantén brillo.
+3. Evita empujar.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Por qué el espacio faríngeo ayuda en agudos?
+
+[ENDDAY]
+
+############################################
+############### DAY 57 #####################
+############################################
+
+===DAY:57===
+[TITLE] Resonancia en Graves
+[MODULE] Resonancia y Proyección
+[LEVEL] Baja Frecuencia
+
+[TTS]
+Los graves también necesitan resonancia.
+No deben sonar apagados.
+
+[THEORY]
+En graves:
+Mayor participación TA.
+Espacio oral amplio.
+Presión controlada.
+
+[EXERCISE]
+1. Escala descendente.
+2. Mantener claridad.
+3. 10 repeticiones.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo evitar graves apagados?
+
+[ENDDAY]
+
+############################################
+############### DAY 58 #####################
+############################################
+
+===DAY:58===
+[TITLE] Aplicación en Canción Real
+[MODULE] Resonancia y Proyección
+[LEVEL] Transferencia
+
+[TTS]
+Hoy aplicarás resonancia completa en canción.
+La técnica debe sobrevivir al contexto real.
+
+[THEORY]
+Mantener:
+Soporte.
+Resonancia equilibrada.
+Mandíbula libre.
+
+[EXERCISE]
+1. Elige canción.
+2. Marca frases.
+3. Cántala 3 veces controladas.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo llevar técnica a canción sin perder naturalidad?
+
+[ENDDAY]
+
+############################################
+############### DAY 59 #####################
+############################################
+
+===DAY:59===
+[TITLE] Simulación Escénica Técnica
+[MODULE] Resonancia y Proyección
+[LEVEL] Integración Profesional
+
+[TTS]
+Hoy cantarás de pie, como en escenario.
+La técnica debe mantenerse bajo postura dinámica.
+
+[THEORY]
+Postura influye en:
+Respiración.
+Presión.
+Resonancia.
+
+[EXERCISE]
+1. Canta de pie.
+2. Movimiento leve.
+3. Mantén estabilidad vocal.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo afecta la postura a la resonancia?
+
+[ENDDAY]
+
+############################################
+############### DAY 60 #####################
+############################################
+
+===DAY:60===
+[TITLE] Evaluación Fase Resonancia
+[MODULE] Resonancia y Proyección
+[LEVEL] Consolidación
+
+[TTS]
+Has completado la fase de resonancia.
+Hoy evaluarás tu proyección, color y estabilidad.
+
+[THEORY]
+Evalúa:
+Brillo.
+Estabilidad.
+Fatiga.
+Homogeneidad.
+
+[EXERCISE]
+1. Escala completa.
+2. Canción completa.
+3. Grábate y analiza.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Qué debo mejorar antes de avanzar a agilidad?
+
+[ENDDAY]
