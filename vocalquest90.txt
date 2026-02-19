@@ -1,0 +1,1928 @@
+[VOCALQUEST_90]
+
+
+
+[CONFIG]
+
+TOTAL_DAYS=90
+
+VERSION=1.0
+
+AUTHOR=VocalQuest System
+
+UI_STYLE=DUOLINGO_VERTICAL
+
+ALLOW_AI_BUTTON=true
+
+ALLOW_VIDEO=true
+
+ALLOW_AUDIO=true
+
+[/CONFIG]
+
+
+
+############################################
+
+############### DAY 1 #####################
+
+############################################
+
+
+
+===DAY:1===
+
+[TITLE] Anatomía de la Laringe
+
+[MODULE] El Despertar del Instrumento
+
+[LEVEL] Fundación Biomecánica
+
+
+
+[TTS]
+
+Bienvenido al Día 1.
+
+Hoy entenderás cómo funciona la laringe como un sistema biomecánico.
+
+Tu voz no es misterio.
+
+Es estructura, músculo y física aplicada al arte.
+
+
+
+[THEORY]
+
+La laringe está compuesta por:
+
+- Cartílago tiroides
+
+- Cartílago cricoides
+
+- Aritenoides
+
+- Pliegues vocales
+
+
+
+Los músculos principales:
+
+TA: engrosa y da potencia.
+
+CT: estira y produce agudos.
+
+
+
+[EXERCISE]
+
+1. Coloca tu mano en el cuello.
+
+2. Produce una “mmm” suave.
+
+3. Cambia a agudo sin empujar.
+
+4. Observa el movimiento interno.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+Explícame qué hace el músculo cricotiroideo en el agudo.
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 2 #####################
+
+############################################
+
+
+
+===DAY:2===
+
+[TITLE] Motor de Aire y Presión Subglótica
+
+[MODULE] El Despertar del Instrumento
+
+[LEVEL] Fundación Biomecánica
+
+
+
+[TTS]
+
+Hoy descubrirás que el aire es el combustible.
+
+Sin control respiratorio no existe técnica estable.
+
+
+
+[THEORY]
+
+El diafragma desciende al inhalar.
+
+Los pulmones se expanden en zona baja.
+
+La presión subglótica regula la vibración.
+
+
+
+Demasiada presión = fatiga.
+
+Muy poca presión = sonido inestable.
+
+
+
+[EXERCISE]
+
+1. Inhala en 4 tiempos.
+
+2. Sostén 4 tiempos.
+
+3. Exhala en “sss” durante 8 tiempos.
+
+4. Repite 5 veces.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Por qué demasiada presión subglótica causa tensión?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 3 #####################
+
+############################################
+
+
+
+===DAY:3===
+
+[TITLE] Técnicas SOVT
+
+[MODULE] El Despertar del Instrumento
+
+[LEVEL] Fundación Biomecánica
+
+
+
+[TTS]
+
+Hoy usarás tracto semi ocluido.
+
+La ciencia respalda este método para reducir impacto vocal.
+
+
+
+[THEORY]
+
+SOVT crea resistencia positiva.
+
+Disminuye la colisión de pliegues.
+
+Optimiza el umbral de fonación.
+
+
+
+Ejemplos:
+
+- Pajilla
+
+- Burbujeo en agua
+
+- Trino labial
+
+
+
+[EXERCISE]
+
+1. Usa pajilla en agua 5 minutos.
+
+2. Mantén flujo constante.
+
+3. Realiza sirenas suaves.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Cómo ayuda la inertancia al canto?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 4 #####################
+
+############################################
+
+
+
+===DAY:4===
+
+[TITLE] Passaggio y Conexión de Registros
+
+[MODULE] El Puente de Oro
+
+[LEVEL] Conquista del Rango
+
+
+
+[TTS]
+
+Hoy eliminarás el quiebre vocal.
+
+La transición debe ser invisible.
+
+
+
+[THEORY]
+
+El passaggio ocurre cuando:
+
+TA disminuye actividad.
+
+CT aumenta tensión.
+
+
+
+La clave:
+
+No empujar.
+
+No levantar laringe.
+
+
+
+[EXERCISE]
+
+1. Sirenas suaves en NG.
+
+2. Escalas 1-3-5-8.
+
+3. Mantener volumen medio.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Qué es la voz mixta y cómo se desarrolla?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 5 #####################
+
+############################################
+
+
+
+===DAY:5===
+
+[TITLE] Resonadores y Twang
+
+[MODULE] El Puente de Oro
+
+[LEVEL] Conquista del Rango
+
+
+
+[TTS]
+
+Hoy aprenderás a proyectar sin gritar.
+
+La resonancia amplifica sin esfuerzo muscular extra.
+
+
+
+[THEORY]
+
+Resonadores principales:
+
+- Fosas nasales
+
+- Paladar duro
+
+- Cavidad oral
+
+
+
+El twang:
+
+Aumenta brillo.
+
+Mejora proyección.
+
+Reduce esfuerzo.
+
+
+
+[EXERCISE]
+
+1. Sonido “nya”.
+
+2. Sonido nasal brillante.
+
+3. Escalas cortas con twang ligero.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Cómo el twang mejora la proyección sin tensión?
+
+
+
+[ENDDAY]
+
+############################################
+
+ ############### DAY 6 #####################
+
+ ############################################
+
+===DAY:6===
+
+ [TITLE] Control Mandibular y Lengua
+
+ [MODULE] El Despertar del Instrumento
+
+ [LEVEL]  Fundación Biomecánica
+
+[TTS]
+
+ Hoy liberarás dos enemigos ocultos:
+
+ la mandíbula rígida y la lengua tensa.
+
+ Si la lengua se presiona hacia atrás,
+
+ la laringe pierde libertad.
+
+ La voz se comprime.
+
+ La biomecánica exige movilidad, no fuerza.
+
+[THEORY]
+
+ Errores comunes:
+
+Mandíbula fija
+Lengua retraída
+Base lingual presionando
+La lengua debe reposar amplia y relajada.
+
+ La mandíbula debe caer, no empujar.
+
+[EXERCISE]
+
+Abre la boca frente a espejo.
+Deja caer mandíbula sin tensión.
+Saca lengua suavemente y vocaliza “ah”.
+Realiza escala 1-3-5-3-1.
+
+
+[VIDEO]
+
+ PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+
+ PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+
+ ¿Por qué la tensión lingual afecta la laringe?
+
+[ENDDAY]
+
+############################################
+
+ ############### DAY 7 #####################
+
+ ############################################
+
+===DAY:7===
+
+ [TITLE] Laringe Neutral
+
+ [MODULE] El Despertar del Instrumento
+
+ [LEVEL] Fundación Biomecánica
+
+[TTS]
+
+ Hoy aprenderás estabilidad.
+
+ La laringe no debe subir en agudos
+
+ ni colapsar en graves.
+
+ Neutralidad significa eficiencia.
+
+[THEORY]
+
+ Laringe elevada:
+
+ tensión.
+
+ Laringe baja forzada:
+
+ oscuridad artificial.
+
+ Neutral:
+
+ equilibrio biomecánico.
+
+[EXERCISE]
+
+Coloca dedos suaves en cartílago tiroides.
+Realiza sirena ligera.
+Mantén sensación estable.
+No empujes aire.
+[VIDEO]
+
+ PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+
+ PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+
+ ¿Qué ocurre si la laringe sube en el agudo?
+
+[ENDDAY]
+
+############################################
+
+ ############### DAY 8 #####################
+
+ ############################################
+
+===DAY:8===
+
+ [TITLE] Estabilidad Tonal
+
+ [MODULE] El Despertar del Instrumento
+
+ [LEVEL] Fundación Biomecánica
+
+[TTS]
+
+ Un profesional sostiene notas sin vibración inestable.
+
+ La estabilidad depende de presión constante
+
+ y coordinación muscular fina.
+
+[THEORY]
+
+ Oscilación irregular =
+
+ desbalance presión-cierre.
+
+ Control estable =
+
+ flujo constante + cierre eficiente.
+
+[EXERCISE]
+
+Sostén nota cómoda 8 segundos.
+Usa metrónomo 60 BPM.
+Mantén volumen uniforme.
+Repite 5 veces.
+[VIDEO]
+
+ PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+
+ PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+
+ ¿Cómo se logra estabilidad tonal prolongada?
+
+[ENDDAY]
+
+############################################
+
+ ############### DAY 9 #####################
+
+ ############################################
+
+===DAY:9===
+
+ [TITLE] SOVT Avanzado con Agua
+
+ [MODULE] El Despertar del Instrumento
+
+ [LEVEL] Fundación Biomecánica
+
+[TTS]
+
+ Hoy optimizarás elasticidad vocal.
+
+ El agua crea resistencia equilibrada.
+
+ Eso reduce impacto y mejora coordinación.
+
+[THEORY]
+
+ Beneficios:
+
+Reduce PTP
+Aumenta eficiencia
+Rehabilita fatiga
+[EXERCISE]
+
+Pajilla en agua.
+Sirena 1 minuto.
+Escala 5 tonos.
+Descanso 30 segundos.
+Repite 3 ciclos.
+[VIDEO]
+
+ PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+
+ PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+
+ ¿Por qué el agua mejora la coordinación vocal?
+
+[ENDDAY]
+
+############################################
+
+ ############### DAY 10 ####################
+
+ ############################################
+
+===DAY:10===
+
+ [TITLE] Integración Cuerpo-Voz
+
+ [MODULE] El Despertar del Instrumento
+
+ [LEVEL] Fundación Biomecánica
+
+[TTS]
+
+ La voz no vive solo en la garganta.
+
+ Es sistema completo.
+
+ Postura, respiración y laringe
+
+ deben sincronizarse.
+
+[THEORY]
+
+ Alineación axial:
+
+Cabeza centrada
+Pecho abierto
+Rodillas flexibles
+Mala postura =
+
+ bloqueo de presión subglótica.
+
+[EXERCISE]
+
+Postura triunfador.
+Inhala bajo.
+Vocaliza “mmm”.
+Camina sin perder estabilidad.
+[VIDEO]
+
+ PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+
+ PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+
+ ¿Cómo la postura afecta la presión subglótica?
+
+[ENDDAY]
+
+############################################
+
+ ############### DAY 11 ####################
+
+ ############################################
+
+===DAY:11===
+
+ [TITLE] Activación TA Controlada
+
+ [MODULE] El Puente de Oro
+
+ [LEVEL] Conquista del Rango
+
+[TTS]
+
+ Hoy fortalecerás el músculo TA.
+
+ Sin empuje.
+
+ Sin rigidez.
+
+[THEORY]
+
+ TA engrosa pliegues.
+
+ Da cuerpo.
+
+ Pero exceso genera presión.
+
+[EXERCISE]
+
+Vocal “Gah”.
+Escala 1-3-5.
+Volumen medio.
+No elevar laringe.
+[VIDEO]
+
+ PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+
+ PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+
+ ¿Cómo se fortalece el TA sin tensión?
+
+[ENDDAY]
+
+############################################
+
+ ############### DAY 12 ####################
+
+ ############################################
+
+===DAY:12===
+
+ [TITLE] Activación CT y Agudos
+
+ [MODULE] El Puente de Oro
+
+ [LEVEL] Conquista del Rango
+
+[TTS]
+
+ El CT estira.
+
+ No empuja.
+
+ Los agudos correctos
+
+ no duelen.
+
+[THEORY]
+
+ CT aumenta longitud.
+
+ Reduce masa vibrante.
+
+ Facilita frecuencia alta.
+
+[EXERCISE]
+
+Sonido “woo”.
+Sirenas suaves.
+No aumentar volumen.
+Mantener neutralidad.
+[VIDEO]
+
+ PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+
+ PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+
+ ¿Por qué el CT permite agudos sin empujar?
+
+[ENDDAY]
+
+############################################
+
+ ############### DAY 13 ####################
+
+ ############################################
+
+===DAY:13===
+
+ [TITLE] Diferenciación de Registros
+
+ [MODULE] El Puente de Oro
+
+ [LEVEL] Conquista del Rango
+
+[TTS]
+
+ Hoy sentirás diferencia entre pecho y cabeza.
+
+ No es cambio brusco.
+
+ Es ajuste progresivo.
+
+[THEORY]
+
+ Pecho:
+
+ más TA.
+
+ Cabeza:
+
+ más CT.
+
+ Mixto:
+
+ equilibrio.
+
+[EXERCISE]
+
+Nota grave.
+Nota aguda ligera.
+Alterna 5 veces.
+Observa sensación interna.
+[VIDEO]
+
+ PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+
+ PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+
+ ¿Cómo se construye la voz mixta?
+
+[ENDDAY]
+
+############################################
+
+ ############### DAY 14 ####################
+
+ ############################################
+
+===DAY:14===
+
+ [TITLE] Conexión Suave del Passaggio
+
+ [MODULE] El Puente de Oro
+
+ [LEVEL] Conquista del Rango
+
+[TTS]
+
+ Hoy eliminarás el salto abrupto.
+
+ El passaggio debe ser transición,
+
+ no choque.
+
+[THEORY]
+
+ Disminuye presión.
+
+ Permite inclinación tiroidea.
+
+ Mantén flujo constante.
+
+[EXERCISE]
+
+NG sirena.
+Escala 1-3-5-8.
+Volumen medio-bajo.
+Repetir 6 veces.
+[VIDEO]
+
+ PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+
+ PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+
+ ¿Por qué el passaggio genera quiebre?
+
+[ENDDAY]
+
+############################################
+
+ ############### DAY 15 ####################
+
+ ############################################
+
+===DAY:15===
+
+ [TITLE] Evaluación Fase 1
+
+ [MODULE] El Despertar del Instrumento
+
+ [LEVEL] Fundación Biomecánica
+
+[TTS]
+
+ Has completado la primera fase.
+
+ Ahora medirás estabilidad,
+
+ respiración y neutralidad laríngea.
+
+[THEORY]
+
+ Indicadores:
+
+No fatiga
+No dolor
+Agudos sin empuje
+Sostenidos estables
+[EXERCISE]
+
+Sostén nota 10 segundos.
+Sirena completa rango cómodo.
+Escala 1-3-5-8-5-3-1.
+Evalúa tensión.
+[VIDEO]
+
+ PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+
+ PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+
+ ¿Cómo evalúo si estoy listo para la siguiente fase?
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 16 #####################
+
+############################################
+
+
+
+===DAY:16===
+
+[TITLE] Activación del Músculo TA (Potencia Controlada)
+
+[MODULE] Fuerza y Control Motor
+
+[LEVEL] Cierre Cordal
+
+
+
+[TTS]
+
+Hoy activaremos el músculo tiroaritenoideo.
+
+Este músculo da cuerpo, densidad y potencia.
+
+Pero mal usado genera empuje.
+
+Aprenderás a activarlo sin tensión.
+
+
+
+[THEORY]
+
+El músculo TA:
+
+- Engrosa los pliegues vocales
+
+- Favorece graves y potencia
+
+- Participa en voz de pecho
+
+
+
+Error común:
+
+Empujar desde cuello en vez de permitir cierre eficiente.
+
+
+
+Se busca:
+
+Cierre firme, no presión externa.
+
+
+
+[EXERCISE]
+
+1. Sonido “GUG” corto y firme.
+
+2. Escala 1-3-5-3-1.
+
+3. Volumen medio.
+
+4. Mantener cuello relajado.
+
+5. 8 repeticiones.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Cómo sé si estoy activando el TA sin empujar el cuello?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 17 #####################
+
+############################################
+
+
+
+===DAY:17===
+
+[TITLE] Activación del Músculo CT (Extensión Aguda)
+
+[MODULE] Fuerza y Control Motor
+
+[LEVEL] Cierre Cordal
+
+
+
+[TTS]
+
+Hoy activaremos el músculo cricotiroideo.
+
+Este músculo permite los agudos.
+
+No se trata de gritar.
+
+Se trata de estirar eficientemente.
+
+
+
+[THEORY]
+
+El músculo CT:
+
+- Inclina el cartílago tiroides
+
+- Estira los pliegues
+
+- Produce agudos limpios
+
+
+
+Error común:
+
+Levantar la laringe para alcanzar notas altas.
+
+
+
+Clave:
+
+Sensación interna de estiramiento, no presión.
+
+
+
+[EXERCISE]
+
+1. Sirenas suaves en “NG”.
+
+2. Deslizar grave a agudo.
+
+3. Sin aumentar volumen.
+
+4. 10 repeticiones controladas.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Qué diferencia hay entre forzar agudos y activar correctamente el CT?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 18 #####################
+
+############################################
+
+
+
+===DAY:18===
+
+[TITLE] Diferenciación de Registros
+
+[MODULE] Fuerza y Control Motor
+
+[LEVEL] Integración TA-CT
+
+
+
+[TTS]
+
+Hoy aprenderás a diferenciar registros.
+
+No para separarlos.
+
+Sino para controlarlos conscientemente.
+
+
+
+[THEORY]
+
+Registro de pecho:
+
+Predomina TA.
+
+
+
+Registro de cabeza:
+
+Predomina CT.
+
+
+
+Meta:
+
+Sentir el cambio sin perder estabilidad.
+
+
+
+[EXERCISE]
+
+1. Nota grave sostenida.
+
+2. Cambiar a nota media.
+
+3. Luego agudo ligero.
+
+4. Comparar sensaciones.
+
+5. Repetir 6 veces.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Cómo identifico el cambio de predominancia muscular en mi voz?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 19 #####################
+
+############################################
+
+
+
+===DAY:19===
+
+[TITLE] Cierre Cordal Eficiente
+
+[MODULE] Fuerza y Control Motor
+
+[LEVEL] Estabilidad Vocal
+
+
+
+[TTS]
+
+El cierre cordal es eficiencia.
+
+Demasiado cierre fatiga.
+
+Poco cierre airea.
+
+Hoy buscamos equilibrio.
+
+
+
+[THEORY]
+
+Cierre correcto:
+
+- Sonido claro
+
+- Sin aire excesivo
+
+- Sin presión visible
+
+
+
+Cierre incorrecto:
+
+- Cuello tenso
+
+- Mandíbula rígida
+
+- Venas marcadas
+
+
+
+[EXERCISE]
+
+1. Ataque suave con “B”.
+
+2. Mantener nota 5 segundos.
+
+3. Evaluar claridad.
+
+4. 10 repeticiones.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Cómo puedo mejorar mi cierre cordal sin generar tensión?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 20 #####################
+
+############################################
+
+
+
+===DAY:20===
+
+[TITLE] Ataques Vocales Limpios
+
+[MODULE] Fuerza y Control Motor
+
+[LEVEL] Precisión Técnica
+
+
+
+[TTS]
+
+Hoy dominarás el inicio del sonido.
+
+Un buen cantante controla el ataque.
+
+No es explosión.
+
+Es precisión.
+
+
+
+[THEORY]
+
+Tipos de ataque:
+
+- Suave (aspirado)
+
+- Coordinado (ideal)
+
+- Glótico (excesivo)
+
+
+
+Buscamos:
+
+Ataque coordinado equilibrado.
+
+
+
+[EXERCISE]
+
+1. Vocal “AH”.
+
+2. Iniciar sonido sin aire previo.
+
+3. Sin golpe glótico.
+
+4. 12 repeticiones.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Cuál es la diferencia entre ataque coordinado y ataque glótico?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 21 #####################
+
+############################################
+
+
+
+===DAY:21===
+
+[TITLE] Resistencia Vocal Inicial
+
+[MODULE] Integración y Resistencia
+
+[LEVEL] Consolidación Técnica
+
+
+
+[TTS]
+
+Hoy comenzarás a construir resistencia.
+
+La técnica correcta debe sostenerse en el tiempo.
+
+No buscamos volumen.
+
+Buscamos estabilidad prolongada.
+
+
+
+[THEORY]
+
+La resistencia se desarrolla mediante:
+
+- Presión subglótica estable
+
+- Cierre cordal eficiente
+
+- Relajación extrínseca
+
+
+
+Fatiga aparece cuando:
+
+Se pierde coordinación entre aire y cierre.
+
+
+
+[EXERCISE]
+
+1. Nota cómoda sostenida 8 segundos.
+
+2. Descanso 5 segundos.
+
+3. Repetir 8 veces.
+
+4. Mantener cuello relajado.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Cómo sé si mi fatiga es muscular o técnica?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 22 #####################
+
+############################################
+
+
+
+===DAY:22===
+
+[TITLE] Control de Dinámicas
+
+[MODULE] Integración y Resistencia
+
+[LEVEL] Expresión Controlada
+
+
+
+[TTS]
+
+Un cantante profesional controla volumen sin perder calidad.
+
+Hoy dominarás las dinámicas.
+
+
+
+[THEORY]
+
+Dinámicas:
+
+Piano – suave controlado.
+
+Mezzo – equilibrio.
+
+Forte – potencia sin tensión.
+
+
+
+La clave:
+
+El aire cambia ligeramente.
+
+El cierre se mantiene estable.
+
+
+
+[EXERCISE]
+
+1. Nota sostenida.
+
+2. Comienza piano.
+
+3. Aumenta a mezzo.
+
+4. Termina piano.
+
+5. 6 repeticiones.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Por qué subir volumen no debe implicar empujar?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 23 #####################
+
+############################################
+
+
+
+===DAY:23===
+
+[TITLE] Vibrato Natural
+
+[MODULE] Integración y Resistencia
+
+[LEVEL] Expresión Técnica
+
+
+
+[TTS]
+
+El vibrato no se fuerza.
+
+Es resultado de coordinación eficiente.
+
+
+
+[THEORY]
+
+Vibrato saludable:
+
+5-7 oscilaciones por segundo.
+
+Relajación equilibrada.
+
+Sin temblor artificial.
+
+
+
+Error:
+
+Intentar “hacer vibrato” con mandíbula.
+
+
+
+[EXERCISE]
+
+1. Nota sostenida 10 segundos.
+
+2. Permitir oscilación natural.
+
+3. No manipular mandíbula.
+
+4. 6 repeticiones.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Cómo diferencio vibrato natural de vibrato forzado?
+
+
+
+[ENDDAY]
+
+
+
+############################################
+
+############### DAY 24 #####################
+
+############################################
+
+
+
+===DAY:24===
+
+[TITLE] Agilidad Vocal Básica
+
+[MODULE] Integración y Resistencia
+
+[LEVEL] Coordinación Rápida
+
+
+
+[TTS]
+
+Hoy entrenamos velocidad.
+
+La precisión aumenta con repetición consciente.
+
+
+
+[THEORY]
+
+Agilidad requiere:
+
+- CT flexible
+
+- Aire constante
+
+- Mandíbula libre
+
+
+
+Errores:
+
+Abrir demasiado la boca.
+
+Tensar lengua.
+
+
+
+[EXERCISE]
+
+1. Escala 1-2-3-4-5-4-3-2-1.
+
+2. Tempo 80 BPM.
+
+3. Incrementar a 100 BPM.
+
+4. 10 repeticiones.
+
+
+
+[VIDEO]
+
+PEGAR_LINK_YOUTUBE_AQUI
+
+
+
+[AUDIO]
+
+PEGAR_LINK_AUDIO_AQUI
+
+
+
+[AI_PROMPT]
+
+¿Qué limita mi velocidad en escalas rápidas?
+
+
+
+[ENDDAY]
+
+############################################
+############### DAY 25 #####################
+############################################
+
+===DAY:25===
+[TITLE] Evaluación Técnica Fase 2
+[MODULE] Integración y Resistencia
+[LEVEL] Diagnóstico
+
+[TTS]
+Hoy evaluamos progreso.
+Sin evaluación no hay mejora estratégica.
+
+[THEORY]
+Revisar:
+- Passaggio fluido
+- Cierre estable
+- Sin fatiga temprana
+
+Autoevaluación honesta.
+
+[EXERCISE]
+1. Escala grave-agudo.
+2. Nota sostenida 10 segundos.
+3. Dinámica piano-forte.
+4. Registrar sensaciones.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Qué debo reforzar según mi desempeño actual?
+
+[ENDDAY]
+
+############################################
+############### DAY 26 #####################
+############################################
+
+===DAY:26===
+[TITLE] Introducción al Belt Controlado
+[MODULE] Potencia Avanzada
+[LEVEL] Proyección Moderna
+
+[TTS]
+Hoy conocerás el belt.
+Potencia brillante sin gritar.
+
+[THEORY]
+Belt correcto:
+Twang activo.
+Cierre firme.
+Presión moderada.
+
+Nunca dolor.
+
+[EXERCISE]
+1. Sonido “HEY”.
+2. Nota media-alta.
+3. Volumen medio-fuerte.
+4. 6 repeticiones controladas.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo hacer belt sin elevar la laringe?
+
+[ENDDAY]
+
+############################################
+############### DAY 27 #####################
+############################################
+
+===DAY:27===
+[TITLE] Mezcla Avanzada
+[MODULE] Potencia Avanzada
+[LEVEL] Integración Mixta
+
+[TTS]
+Hoy consolidamos la voz mixta.
+Equilibrio entre TA y CT.
+
+[THEORY]
+Voz mixta:
+No es mitad y mitad.
+Es coordinación dinámica según altura.
+
+Sensación:
+Ligero pero con cuerpo.
+
+[EXERCISE]
+1. Escalas 1-3-5-8.
+2. Mantener brillo.
+3. Sin aumentar volumen.
+4. 8 repeticiones.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo estabilizar la voz mixta en notas altas?
+
+[ENDDAY]
+
+############################################
+############### DAY 28 #####################
+############################################
+
+===DAY:28===
+[TITLE] Articulación Avanzada
+[MODULE] Potencia Avanzada
+[LEVEL] Claridad Profesional
+
+[TTS]
+La claridad es profesionalismo.
+Hoy trabajamos precisión articulatoria.
+
+[THEORY]
+Lengua relajada.
+Mandíbula móvil.
+Labios activos.
+
+Evitar rigidez facial.
+
+[EXERCISE]
+1. Trabajar trabalenguas cantado.
+2. Tempo lento.
+3. Incrementar velocidad.
+4. 10 repeticiones.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo afecta la lengua rígida al tono?
+
+[ENDDAY]
+
+############################################
+############### DAY 29 #####################
+############################################
+
+===DAY:29===
+[TITLE] Resistencia Extendida
+[MODULE] Potencia Avanzada
+[LEVEL] Alto Rendimiento
+
+[TTS]
+Hoy extendemos duración.
+Tu instrumento debe sostener repertorio completo.
+
+[THEORY]
+Resistencia avanzada:
+Respiración eficiente.
+Micro descansos.
+Hidratación constante.
+
+[EXERCISE]
+1. Cantar fragmento 1 minuto.
+2. Descanso 30 segundos.
+3. Repetir 3 veces.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo mantener estabilidad durante canciones largas?
+
+[ENDDAY]
+
+############################################
+############### DAY 30 #####################
+############################################
+
+===DAY:30===
+[TITLE] Evaluación General Mes 1
+[MODULE] Consolidación
+[LEVEL] Certificación Interna
+
+[TTS]
+Hoy completas el primer mes.
+No eres principiante.
+Eres técnico en formación.
+
+[THEORY]
+Revisión:
+- Control respiratorio
+- Passaggio estable
+- Vibrato natural
+- Sin dolor
+
+[EXERCISE]
+1. Escalas completas.
+2. Dinámicas.
+3. Belt moderado.
+4. Grabarte y analizar.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Evalúa mi nivel técnico después de 30 días.
+
+[ENDDAY]
+
