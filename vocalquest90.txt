@@ -3088,3 +3088,1071 @@ PEGAR_LINK_AUDIO_AQUI
 ¿Qué debo mejorar antes de avanzar a agilidad?
 
 [ENDDAY]
+
+############################################
+############### DAY 61 #####################
+############################################
+
+===DAY:61===
+[TITLE] Introducción a la Agilidad Vocal
+[MODULE] Agilidad y Coordinación
+[LEVEL] Base Neuromuscular
+
+[TTS]
+Hoy comenzarás a entrenar velocidad vocal.
+La agilidad no es cantar rápido.
+Es coordinar precisión y relajación.
+
+[THEORY]
+La agilidad depende de:
+- Coordinación neuromuscular fina.
+- Baja tensión mandibular.
+- Apoyo respiratorio estable.
+
+Sin relajación, no hay velocidad real.
+
+[EXERCISE]
+1. Escala 1-2-3-2-1 lenta.
+2. Aumenta velocidad gradualmente.
+3. Mantén claridad en cada nota.
+4. 12 repeticiones.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Por qué la tensión limita la velocidad vocal?
+
+[ENDDAY]
+
+############################################
+############### DAY 62 #####################
+############################################
+
+===DAY:62===
+[TITLE] Articulación Rápida Controlada
+[MODULE] Agilidad y Coordinación
+[LEVEL] Diccion Dinámica
+
+[TTS]
+Hoy entrenarás lengua y mandíbula.
+La agilidad comienza en la articulación.
+
+[THEORY]
+Errores comunes:
+- Mandíbula rígida.
+- Lengua bloqueando espacio.
+- Aire inestable.
+
+Velocidad sin claridad es ruido.
+
+[EXERCISE]
+1. Repite “Da-ga-da-ga” en tempo lento.
+2. Aumenta progresivamente.
+3. Mantén apoyo constante.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo evitar que la lengua frene la agilidad?
+
+[ENDDAY]
+
+############################################
+############### DAY 63 #####################
+############################################
+
+===DAY:63===
+[TITLE] Patrones Melismáticos Básicos
+[MODULE] Agilidad y Coordinación
+[LEVEL] Melismas Iniciales
+
+[TTS]
+Hoy comenzarás melismas simples.
+Cada nota debe sonar clara.
+
+[THEORY]
+Melisma:
+Serie rápida de notas sobre una sílaba.
+
+Claves:
+- Apoyo constante.
+- No cambiar presión en cada nota.
+
+[EXERCISE]
+1. Patrón 1-3-2-1.
+2. Vocal “Ah”.
+3. Incrementa tempo gradualmente.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo mantener afinación en melismas?
+
+[ENDDAY]
+
+############################################
+############### DAY 64 #####################
+############################################
+
+===DAY:64===
+[TITLE] Precisión en Intervalos Rápidos
+[MODULE] Agilidad y Coordinación
+[LEVEL] Saltos Controlados
+
+[TTS]
+Hoy entrenarás saltos rápidos.
+La precisión importa más que la velocidad.
+
+[THEORY]
+Intervalos amplios requieren:
+- Preparación mental.
+- Anticipación muscular.
+- Apoyo firme.
+
+[EXERCISE]
+1. Patrón 1-5-3-8-5-1.
+2. Tempo medio.
+3. Claridad total.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo anticipar saltos sin tensar la garganta?
+
+[ENDDAY]
+
+############################################
+############### DAY 65 #####################
+############################################
+
+===DAY:65===
+[TITLE] Introducción al Vibrato Natural
+[MODULE] Agilidad y Coordinación
+[LEVEL] Oscilación Controlada
+
+[TTS]
+El vibrato no se fabrica.
+Se permite.
+Hoy aprenderás a liberarlo.
+
+[THEORY]
+Vibrato saludable:
+- Oscilación regular.
+- 5 a 7 ciclos por segundo.
+- Sin pulsar con mandíbula.
+
+[EXERCISE]
+1. Nota sostenida 6 segundos.
+2. Relaja cuello.
+3. Permite oscilación natural.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Qué bloquea el vibrato natural?
+
+[ENDDAY]
+
+############################################
+############### DAY 66 #####################
+############################################
+
+===DAY:66===
+[TITLE] Estabilidad Antes del Vibrato
+[MODULE] Agilidad y Coordinación
+[LEVEL] Control Previo
+
+[TTS]
+Antes del vibrato debe haber estabilidad.
+Control primero, expresión después.
+
+[THEORY]
+Sostener nota recta:
+- Apoyo firme.
+- Sin temblor mandibular.
+- Aire estable.
+
+[EXERCISE]
+1. Nota recta 5 segundos.
+2. Luego permite vibrato 3 segundos.
+3. Repite 8 veces.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo diferenciar vibrato de temblor?
+
+[ENDDAY]
+
+############################################
+############### DAY 67 #####################
+############################################
+
+===DAY:67===
+[TITLE] Riffs Lentos Controlados
+[MODULE] Agilidad y Coordinación
+[LEVEL] Fraseo Técnico
+
+[TTS]
+Hoy practicarás riffs lentos.
+Control antes que velocidad.
+
+[THEORY]
+Riff:
+Secuencia decorativa rápida.
+Debe iniciar y terminar con precisión.
+
+[EXERCISE]
+1. Diseña patrón 4 notas.
+2. Cántalo lento.
+3. Mantén afinación exacta.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo practicar riffs sin perder centro tonal?
+
+[ENDDAY]
+
+############################################
+############### DAY 68 #####################
+############################################
+
+===DAY:68===
+[TITLE] Incremento de Tempo
+[MODULE] Agilidad y Coordinación
+[LEVEL] Velocidad Progresiva
+
+[TTS]
+Hoy aumentarás velocidad.
+Sin tensión añadida.
+
+[THEORY]
+Velocidad progresiva:
+Sube tempo 5 BPM cada repetición.
+Si pierdes claridad, baja.
+
+[EXERCISE]
+1. Patrón día 63.
+2. Sube tempo gradualmente.
+3. 15 minutos controlados.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo saber cuándo el tempo es demasiado alto?
+
+[ENDDAY]
+
+############################################
+############### DAY 69 #####################
+############################################
+
+===DAY:69===
+[TITLE] Agilidad en Agudos
+[MODULE] Agilidad y Coordinación
+[LEVEL] Registro Alto
+
+[TTS]
+Hoy aplicarás agilidad en notas altas.
+El apoyo es clave.
+
+[THEORY]
+En agudos:
+Más elongación CT.
+Menos presión.
+Espacio interno amplio.
+
+[EXERCISE]
+1. Melisma corto en zona alta.
+2. Mantén brillo ligero.
+3. 10 repeticiones.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo evitar tensión al hacer riffs en agudos?
+
+[ENDDAY]
+
+############################################
+############### DAY 70 #####################
+############################################
+
+===DAY:70===
+[TITLE] Agilidad en Graves
+[MODULE] Agilidad y Coordinación
+[LEVEL] Registro Bajo
+
+[TTS]
+La agilidad en graves requiere claridad.
+No debe sonar pesado.
+
+[THEORY]
+Mantener:
+Espacio oral.
+Apoyo constante.
+Sin exceso de aire.
+
+[EXERCISE]
+1. Patrón rápido descendente.
+2. Claridad absoluta.
+3. 12 repeticiones.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo mantener ligereza en graves rápidos?
+
+[ENDDAY]
+
+############################################
+############### DAY 71 #####################
+############################################
+
+===DAY:71===
+[TITLE] Coordinación Respiración-Velocidad
+[MODULE] Agilidad y Coordinación
+[LEVEL] Sincronización
+
+[TTS]
+Hoy unirás aire y velocidad.
+Sin soporte no hay agilidad estable.
+
+[THEORY]
+Respiración debe:
+Sostener presión constante.
+No interrumpirse entre notas.
+
+[EXERCISE]
+1. Patrón rápido.
+2. Mantén misma presión.
+3. 10 ciclos largos.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Por qué el soporte afecta la velocidad?
+
+[ENDDAY]
+
+############################################
+############### DAY 72 #####################
+############################################
+
+===DAY:72===
+[TITLE] Riffs Aplicados en Canción
+[MODULE] Agilidad y Coordinación
+[LEVEL] Transferencia Musical
+
+[TTS]
+Hoy aplicarás riffs dentro de canción real.
+La técnica debe sonar musical.
+
+[THEORY]
+Regla:
+No sobrecargar.
+Cada adorno debe tener intención.
+
+[EXERCISE]
+1. Elige frase.
+2. Añade riff controlado.
+3. Grábate y evalúa.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo usar riffs sin exagerar?
+
+[ENDDAY]
+
+############################################
+############### DAY 73 #####################
+############################################
+
+===DAY:73===
+[TITLE] Vibrato en Frase Completa
+[MODULE] Agilidad y Coordinación
+[LEVEL] Expresión Técnica
+
+[TTS]
+Hoy integrarás vibrato en frase real.
+No en cada nota.
+Solo donde aporte emoción.
+
+[THEORY]
+Vibrato como herramienta expresiva.
+No constante.
+No forzado.
+
+[EXERCISE]
+1. Canta frase.
+2. Aplica vibrato solo al final.
+3. 8 repeticiones.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cuándo es mejor usar vibrato?
+
+[ENDDAY]
+
+############################################
+############### DAY 74 #####################
+############################################
+
+===DAY:74===
+[TITLE] Control de Dinámica en Velocidad
+[MODULE] Agilidad y Coordinación
+[LEVEL] Matiz Avanzado
+
+[TTS]
+Hoy combinarás velocidad y dinámica.
+Rápido no significa fuerte.
+
+[THEORY]
+Practica:
+Piano rápido.
+Forte rápido.
+Control total.
+
+[EXERCISE]
+1. Patrón melismático.
+2. Cántalo suave.
+3. Luego fuerte controlado.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo controlar volumen en pasajes rápidos?
+
+[ENDDAY]
+
+############################################
+############### DAY 75 #####################
+############################################
+
+===DAY:75===
+[TITLE] Evaluación Fase Agilidad
+[MODULE] Agilidad y Coordinación
+[LEVEL] Consolidación
+
+[TTS]
+Has completado fase de agilidad.
+Hoy evaluarás velocidad, precisión y vibrato.
+
+[THEORY]
+Evalúa:
+Claridad.
+Afinación.
+Relajación.
+Control dinámico.
+
+[EXERCISE]
+1. Escala rápida completa.
+2. Canción con riffs.
+3. Grabación final.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Qué debo perfeccionar antes de performance final?
+
+[ENDDAY]
+
+############################################
+############### DAY 76 #####################
+############################################
+
+===DAY:76===
+[TITLE] Preparación Mental para Escenario
+[MODULE] Performance Profesional
+[LEVEL] Psicología del Intérprete
+
+[TTS]
+Hoy trabajarás la mente.
+El escenario no solo prueba tu técnica.
+Prueba tu estabilidad emocional.
+
+[THEORY]
+El miedo escénico activa:
+- Sistema simpático
+- Aumento de frecuencia cardíaca
+- Rigidez muscular
+
+La preparación incluye:
+- Respiración consciente
+- Visualización previa
+- Ensayo mental positivo
+
+[EXERCISE]
+1. Respira 4-4-8 durante 3 minutos.
+2. Visualiza una presentación exitosa.
+3. Canta una frase imaginando público.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Explícame desde la neurofisiología cómo el sistema nervioso simpático afecta la coordinación vocal durante el miedo escénico y qué técnicas específicas ayudan a regularlo.
+
+[ENDDAY]
+
+############################################
+############### DAY 77 #####################
+############################################
+
+===DAY:77===
+[TITLE] Energía Corporal y Presencia Escénica
+[MODULE] Performance Profesional
+[LEVEL] Proyección Corporal
+
+[TTS]
+Tu cuerpo comunica antes que tu voz.
+Hoy trabajarás presencia física.
+
+[THEORY]
+Elementos de presencia:
+- Postura alineada
+- Movimiento intencional
+- Contacto visual
+
+El cuerpo debe amplificar la intención musical.
+
+[EXERCISE]
+1. Canta frente a espejo.
+2. Observa postura.
+3. Elimina movimientos nerviosos.
+4. Repite con intención clara.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Describe cómo la postura corporal influye biomecánicamente en la eficiencia respiratoria y en la proyección vocal durante una presentación en vivo.
+
+[ENDDAY]
+
+############################################
+############### DAY 78 #####################
+############################################
+
+===DAY:78===
+[TITLE] Interpretación Emocional Profunda
+[MODULE] Performance Profesional
+[LEVEL] Conexión Artística
+
+[TTS]
+La técnica sostiene.
+La emoción conecta.
+
+[THEORY]
+Interpretar implica:
+- Analizar letra
+- Definir intención
+- Crear narrativa interna
+
+Sin intención, la voz suena vacía.
+
+[EXERCISE]
+1. Analiza letra de una canción.
+2. Define emoción central.
+3. Canta enfocándote solo en esa emoción.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Analiza cómo la intención emocional modifica parámetros vocales como dinámica, timbre y articulación, y explica cómo entrenarlo conscientemente.
+
+[ENDDAY]
+
+############################################
+############### DAY 79 #####################
+############################################
+
+===DAY:79===
+[TITLE] Control del Micrófono
+[MODULE] Performance Profesional
+[LEVEL] Técnica en Vivo
+
+[TTS]
+El micrófono es extensión de tu instrumento.
+
+[THEORY]
+Reglas básicas:
+- Distancia constante
+- Ajuste en notas fuertes
+- No cubrir cápsula
+
+El micrófono amplifica errores.
+
+[EXERCISE]
+1. Practica variando distancia.
+2. Nota fuerte: aleja ligeramente.
+3. Nota suave: acerca suavemente.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Explica cómo la distancia al micrófono influye en la percepción del timbre, la dinámica y el efecto proximidad en sonido en vivo.
+
+[ENDDAY]
+
+############################################
+############### DAY 80 #####################
+############################################
+
+===DAY:80===
+[TITLE] Gestión de Fatiga en Concierto
+[MODULE] Performance Profesional
+[LEVEL] Resistencia Vocal
+
+[TTS]
+Hoy aprenderás a durar.
+Un concierto exige resistencia estratégica.
+
+[THEORY]
+Claves:
+- Dosificar intensidad
+- Hidratación constante
+- Evitar sobrepresión en agudos
+
+[EXERCISE]
+1. Simula 20 minutos de canto continuo.
+2. Mantén intensidad moderada.
+3. Evalúa tensión al final.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Describe los mecanismos fisiológicos de la fatiga vocal y propone un protocolo preventivo para una presentación de más de 60 minutos.
+
+[ENDDAY]
+
+############################################
+############### DAY 81 #####################
+############################################
+
+===DAY:81===
+[TITLE] Construcción de Identidad Vocal
+[MODULE] Performance Profesional
+[LEVEL] Marca Artística
+
+[TTS]
+Hoy no entrenas técnica.
+Entrenas identidad.
+
+[THEORY]
+Identidad incluye:
+- Timbre distintivo
+- Estilo interpretativo
+- Elección de repertorio
+
+No imites.
+Refina tu esencia.
+
+[EXERCISE]
+1. Canta una canción propia.
+2. Analiza qué te hace único.
+3. Ajusta detalles que definan tu sello.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Explícame cómo se desarrolla una identidad vocal auténtica integrando biomecánica, timbre natural y decisiones estilísticas conscientes.
+
+[ENDDAY]
+
+############################################
+############### DAY 82 #####################
+############################################
+
+===DAY:82===
+[TITLE] Adaptación a Diferentes Géneros
+[MODULE] Performance Profesional
+[LEVEL] Versatilidad
+
+[TTS]
+Hoy expandirás tu rango estilístico.
+
+[THEORY]
+Cada género modifica:
+- Ataque vocal
+- Uso de vibrato
+- Resonancia predominante
+
+[EXERCISE]
+1. Canta frase en estilo pop.
+2. Repite en estilo lírico.
+3. Repite en estilo R&B.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Compara técnicamente las diferencias de configuración laríngea y resonancial entre canto pop contemporáneo y canto lírico.
+
+[ENDDAY]
+
+############################################
+############### DAY 83 #####################
+############################################
+
+===DAY:83===
+[TITLE] Improvisación Vocal
+[MODULE] Performance Profesional
+[LEVEL] Creatividad Técnica
+
+[TTS]
+Improvisar es libertad con estructura.
+
+[THEORY]
+Requiere:
+- Escucha armónica
+- Control tonal
+- Agilidad estable
+
+[EXERCISE]
+1. Usa pista instrumental.
+2. Improvise sobre escala mayor.
+3. Mantén coherencia melódica.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Explica cómo la teoría musical y la memoria auditiva interactúan en la improvisación vocal efectiva.
+
+[ENDDAY]
+
+############################################
+############### DAY 84 #####################
+############################################
+
+===DAY:84===
+[TITLE] Grabación Profesional en Estudio
+[MODULE] Performance Profesional
+[LEVEL] Precisión Técnica
+
+[TTS]
+El estudio revela todo.
+Hoy entrenarás precisión absoluta.
+
+[THEORY]
+En estudio:
+- Micro detalle importa
+- Afinación debe ser exacta
+- Control dinámico fino
+
+[EXERCISE]
+1. Grábate.
+2. Escucha críticamente.
+3. Ajusta afinación y dicción.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Describe las diferencias técnicas entre cantar en vivo y grabar en estudio desde el punto de vista acústico y fisiológico.
+
+[ENDDAY]
+
+############################################
+############### DAY 85 #####################
+############################################
+
+===DAY:85===
+[TITLE] Performance Completa Simulada
+[MODULE] Performance Profesional
+[LEVEL] Integración Total
+
+[TTS]
+Hoy integras todo.
+Técnica.
+Agilidad.
+Emoción.
+Presencia.
+
+[THEORY]
+Evaluar:
+- Respiración
+- Resonancia
+- Estabilidad emocional
+- Conexión con público
+
+[EXERCISE]
+1. Simula presentación completa.
+2. Grábala en video.
+3. Evalúa objetivamente.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Analiza qué indicadores técnicos y artísticos deben evaluarse en una performance completa para determinar nivel profesional.
+
+[ENDDAY]
+
+############################################
+############### DAY 86 #####################
+############################################
+
+===DAY:86===
+[TITLE] Corrección de Últimos Detalles
+[MODULE] Performance Profesional
+[LEVEL] Ajuste Fino
+
+[TTS]
+Hoy corriges microdetalles.
+
+[THEORY]
+Observa:
+- Microtensiones
+- Afinación inestable
+- Movimientos innecesarios
+
+[EXERCISE]
+Repite grabación del día 85 y mejora 3 aspectos específicos.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Proporciona un método sistemático para identificar y corregir microtensiones laríngeas detectadas en grabaciones propias.
+
+[ENDDAY]
+
+############################################
+############### DAY 87 #####################
+############################################
+
+===DAY:87===
+[TITLE] Ensayo General Final
+[MODULE] Performance Profesional
+[LEVEL] Pre Graduación
+
+[TTS]
+Este es tu ensayo general.
+
+[THEORY]
+Simula condiciones reales:
+- Iluminación
+- Micrófono
+- Movimiento
+
+[EXERCISE]
+Performance completa sin detenerte.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Explica cómo simular condiciones reales de concierto mejora la adaptación psicofisiológica del cantante.
+
+[ENDDAY]
+
+############################################
+############### DAY 88 #####################
+############################################
+
+===DAY:88===
+[TITLE] Recuperación Post Performance
+[MODULE] Performance Profesional
+[LEVEL] Salud Vocal
+
+[TTS]
+Después de cantar.
+También se entrena.
+
+[THEORY]
+Incluye:
+- Enfriamiento vocal
+- Hidratación
+- Reposo estratégico
+
+[EXERCISE]
+1. SOVT suave 5 minutos.
+2. Hidratación.
+3. Silencio relativo.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Describe un protocolo de enfriamiento vocal basado en fisiología para después de una presentación intensa.
+
+[ENDDAY]
+
+############################################
+############### DAY 89 #####################
+############################################
+
+===DAY:89===
+[TITLE] Evaluación Final Técnica
+[MODULE] Performance Profesional
+[LEVEL] Certificación Técnica
+
+[TTS]
+Hoy mides tu progreso.
+
+[THEORY]
+Evalúa:
+- Rango
+- Estabilidad
+- Agilidad
+- Control dinámico
+
+[EXERCISE]
+Prueba completa de rango y canción técnica exigente.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Diseña una rúbrica profesional para evaluar técnica vocal en un cantante avanzado considerando biomecánica, resonancia y expresión artística.
+
+[ENDDAY]
+
+############################################
+############### DAY 90 #####################
+############################################
+
+===DAY:90===
+[TITLE] Graduación VocalQuest
+[MODULE] Artista Total
+[LEVEL] Dominio Integral
+
+[TTS]
+Has completado VocalQuest 90.
+Tu voz ahora es conocimiento aplicado.
+Tu instrumento es consciente.
+Tu arte es estructurado.
+
+[THEORY]
+Integración final:
+Biomecánica.
+Resonancia.
+Agilidad.
+Performance.
+Identidad.
+
+[EXERCISE]
+Realiza tu performance final grabada.
+Compárala con Día 1.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+Realiza un análisis integral de mi evolución vocal describiendo cómo la integración de biomecánica, resonancia, agilidad y gestión emocional define un cantante profesional.
+
+[ENDDAY]
