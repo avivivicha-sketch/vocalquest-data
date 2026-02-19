@@ -2147,3 +2147,390 @@ PEGAR_LINK_AUDIO_AQUI
 ¿Cómo aumento potencia sin generar fatiga?
 
 [ENDDAY]
+
+############################################
+############### DAY 36 #####################
+############################################
+
+===DAY:36===
+[TITLE] Estabilidad en Notas Agudas
+[MODULE] El Puente de Oro
+[LEVEL] Control del Rango Superior
+
+[TTS]
+Hoy aprenderás que sostener un agudo es más difícil que alcanzarlo.
+La estabilidad depende del equilibrio entre presión subglótica y elongación cordal.
+No se trata de fuerza.
+Se trata de precisión.
+
+[THEORY]
+Para sostener notas altas:
+- Activación dominante del CT.
+- Presión subglótica moderada.
+- Laringe estable, sin elevación excesiva.
+
+Errores comunes:
+- Empujar al inicio.
+- Perder soporte al sostener.
+- Cerrar mandíbula.
+
+[EXERCISE]
+1. Elige una nota alta cómoda.
+2. Sostén 6 segundos en “Woo”.
+3. Mantén volumen estable.
+4. Repite 8 veces.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Por qué un agudo se cae después de 3 segundos?
+
+[ENDDAY]
+
+############################################
+############### DAY 37 #####################
+############################################
+
+===DAY:37===
+[TITLE] Resistencia Vocal Progresiva
+[MODULE] El Puente de Oro
+[LEVEL] Endurance
+
+[TTS]
+La resistencia no es cantar más fuerte.
+Es mantener eficiencia por más tiempo.
+Hoy entrenarás la capacidad de sostener técnica bajo fatiga leve.
+
+[THEORY]
+La resistencia depende de:
+- Economía respiratoria.
+- Cierre glótico eficiente.
+- Ausencia de tensión extrínseca.
+
+La fatiga aparece cuando:
+- Aumenta presión innecesaria.
+- Disminuye coordinación muscular.
+
+[EXERCISE]
+1. Escalas ascendentes suaves durante 5 minutos continuos.
+2. Descanso 1 minuto.
+3. Repetir 3 ciclos.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo diferencio fatiga normal de daño vocal?
+
+[ENDDAY]
+
+############################################
+############### DAY 38 #####################
+############################################
+
+===DAY:38===
+[TITLE] Control de Intensidad Dinámica
+[MODULE] El Artista Total
+[LEVEL] Control Expresivo
+
+[TTS]
+Hoy dominarás el volumen.
+No todo es fuerte o suave.
+La dinámica es un control fino de presión y cierre cordal.
+
+[THEORY]
+Para variar intensidad:
+- Más presión = más volumen.
+- Mejor cierre = más proyección.
+- Twang ligero mejora claridad.
+
+Nunca sacrificar:
+Relajación cervical.
+Movilidad mandibular.
+
+[EXERCISE]
+1. Canta una nota.
+2. Empieza pianissimo.
+3. Aumenta a forte.
+4. Regresa a suave sin perder afinación.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo hacer crescendo sin tensión?
+
+[ENDDAY]
+
+############################################
+############### DAY 39 #####################
+############################################
+
+===DAY:39===
+[TITLE] Vibrato Natural
+[MODULE] El Artista Total
+[LEVEL] Control Avanzado
+
+[TTS]
+El vibrato no se fabrica.
+Se libera.
+Es una oscilación natural cuando la técnica está equilibrada.
+
+[THEORY]
+El vibrato ocurre por:
+- Microvariaciones de presión.
+- Elasticidad cordal.
+- Equilibrio TA-CT.
+
+Frecuencia ideal:
+5 a 7 oscilaciones por segundo.
+
+Evitar vibrato forzado.
+
+[EXERCISE]
+1. Sostén nota media 5 segundos.
+2. Relaja mandíbula y cuello.
+3. Permite que el vibrato aparezca.
+4. Repite 10 veces.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo saber si mi vibrato es saludable?
+
+[ENDDAY]
+
+############################################
+############### DAY 40 #####################
+############################################
+
+===DAY:40===
+[TITLE] Eliminación de Tensión Mandibular
+[MODULE] El Despertar del Instrumento
+[LEVEL] Liberación Extrínseca
+
+[TTS]
+La mandíbula rígida bloquea la laringe.
+Hoy liberarás tensión para permitir libertad vocal total.
+
+[THEORY]
+Tensión mandibular provoca:
+- Elevación laríngea.
+- Dificultad en agudos.
+- Sonido apretado.
+
+La lengua también debe estar libre.
+
+[EXERCISE]
+1. Masajea maseteros.
+2. Canta con lengua afuera.
+3. Realiza escalas suaves.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Por qué la mandíbula afecta la afinación?
+
+[ENDDAY]
+
+############################################
+############### DAY 41 #####################
+############################################
+
+===DAY:41===
+[TITLE] Coordinación Respiración-Fonación
+[MODULE] Fundación Biomecánica
+[LEVEL] Integración Total
+
+[TTS]
+Respirar y fonar deben ser un solo gesto.
+Si el aire entra tarde o sale brusco, la voz pierde estabilidad.
+
+[THEORY]
+La coordinación correcta:
+- Inhalación silenciosa.
+- Inicio limpio de sonido.
+- Presión constante.
+
+Ataque glótico suave es clave.
+
+[EXERCISE]
+1. Inhala 4 tiempos.
+2. Emite “Ah” limpio.
+3. Mantén flujo estable 6 segundos.
+4. Repite 10 veces.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Qué es un ataque vocal balanceado?
+
+[ENDDAY]
+
+############################################
+############### DAY 42 #####################
+############################################
+
+===DAY:42===
+[TITLE] Resonancia Frontal Avanzada
+[MODULE] El Puente de Oro
+[LEVEL] Proyección
+
+[TTS]
+La proyección no viene del volumen.
+Viene de la colocación.
+Hoy afinarás la máscara resonante.
+
+[THEORY]
+Resonancia frontal implica:
+- Activación ariepiglótica ligera.
+- Espacio faríngeo abierto.
+- Dirección hacia zona nasal.
+
+[EXERCISE]
+1. Sonido “Nye”.
+2. Mantén brillo constante.
+3. Escalas rápidas cortas.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo saber si el sonido está en máscara?
+
+[ENDDAY]
+
+############################################
+############### DAY 43 #####################
+############################################
+
+===DAY:43===
+[TITLE] Control del Registro Grave
+[MODULE] El Despertar del Instrumento
+[LEVEL] Dominio Inferior
+
+[TTS]
+Los graves también requieren técnica.
+No son relajación total.
+Requieren control del TA.
+
+[THEORY]
+En graves:
+- Mayor participación TA.
+- Menor elongación CT.
+- Presión moderada.
+
+Evitar aire excesivo.
+
+[EXERCISE]
+1. Escala descendente 8-5-3-1.
+2. Mantén soporte.
+3. Evita soplar aire.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Por qué mis graves suenan aireados?
+
+[ENDDAY]
+
+############################################
+############### DAY 44 #####################
+############################################
+
+===DAY:44===
+[TITLE] Transiciones Descendentes Limpias
+[MODULE] El Puente de Oro
+[LEVEL] Integración
+
+[TTS]
+Bajar también requiere control.
+La transición descendente debe ser suave y controlada.
+
+[THEORY]
+Al descender:
+- CT reduce tensión progresivamente.
+- TA retoma participación.
+- Presión no debe aumentar.
+
+[EXERCISE]
+1. Escala 8-7-6-5-4-3-2-1.
+2. Mantener volumen constante.
+3. Evitar caída abrupta.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo evitar quiebre al bajar?
+
+[ENDDAY]
+
+############################################
+############### DAY 45 #####################
+############################################
+
+===DAY:45===
+[TITLE] Integración de Rango Completo
+[MODULE] El Artista Total
+[LEVEL] Consolidación
+
+[TTS]
+Hoy integrarás todo tu rango.
+Graves, medios y agudos en una sola línea técnica.
+
+[THEORY]
+Rango completo requiere:
+- Soporte constante.
+- Equilibrio TA-CT.
+- Resonancia estable.
+
+La meta es homogeneidad tímbrica.
+
+[EXERCISE]
+1. Escala completa de tu rango.
+2. Mantener misma calidad.
+3. Repetir 5 ciclos completos.
+
+[VIDEO]
+PEGAR_LINK_YOUTUBE_AQUI
+
+[AUDIO]
+PEGAR_LINK_AUDIO_AQUI
+
+[AI_PROMPT]
+¿Cómo lograr uniformidad en todo mi rango?
+
+[ENDDAY]
