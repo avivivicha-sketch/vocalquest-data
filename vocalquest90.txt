@@ -50,29 +50,72 @@ Tu voz no es misterio.
 
 Es estructura, músculo y física aplicada al arte.
 
+Tu voz funciona gracias a:
+- Estructuras físicas
+- Músculos específicos
+- Flujo de aire controlado
+- Principios básicos de física (vibración)
+
+Cuando entiendes la estructura, dejas de forzar.
+Cuando entiendes los músculos, dejas de adivinar.
+Cuando entiendes el sistema, empiezas a controlar.
+
 
 
 [THEORY]
 
-La laringe está compuesta por:
+LA LARINGE: EL GENERADOR DEL SONIDO
 
-- Cartílago tiroides
+Ubicación:
+Se encuentra en el cuello, encima de la tráquea.
 
-- Cartílago cricoides
+Función:
+Transformar aire en sonido mediante vibración.
 
-- Aritenoides
+---
 
-- Pliegues vocales
+ESTRUCTURAS PRINCIPALES:
 
+1) Cartílago tiroides
+Es la parte frontal (la “nuez” en muchos hombres).
+Protege y sostiene los pliegues vocales.
 
+2) Cartílago cricoides
+Está debajo del tiroides.
+Funciona como base móvil.
+Permite inclinación para generar agudos.
 
-Los músculos principales:
+3) Aritenoides
+Dos pequeños cartílagos atrás.
+Controlan apertura y cierre de los pliegues vocales.
 
-TA: engrosa y da potencia.
+4) Pliegues vocales
+No son cuerdas.
+Son tejido muscular que vibra con el aire.
 
-CT: estira y produce agudos.
+El sonido se produce así:
+Aire sube → pliegues se juntan → vibran → se genera tono.
 
+---
 
+MÚSCULOS PRINCIPALES:
+
+TA (Tiroaritenoideo)
+- Engrosa los pliegues.
+- Da potencia y cuerpo.
+- Predomina en voz de pecho.
+
+Exceso → tensión y dificultad en agudos.
+
+CT (Cricotiroideo)
+- Estira y adelgaza los pliegues.
+- Produce los agudos.
+- Predomina en voz de cabeza.
+
+Exceso → sonido aireado o débil.
+
+El canto equilibrado = coordinación TA + CT.
+No es fuerza. Es ajuste.
 
 [EXERCISE]
 
@@ -91,6 +134,10 @@ https://youtu.be/DXJnZtRdavA?si=gn9Y9PX_BFEV4TmR
 
 [VIDEO]
 https://youtu.be/RbDIEzeoNSM?si=qZy6_CtL7HrAPCI8
+
+[VIDEO]
+https://youtu.be/s6B2hjh3V80?si=5JhMPapOUiJtBD4o
+
 
 
 
